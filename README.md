@@ -1,4 +1,4 @@
-# Python Hejazizo
+# Python 
 <font color = "blue"><b> This repo has been built to save my python files throughout learning this Language.</b></font> 
 
 <i> Fall 2023 </i>
